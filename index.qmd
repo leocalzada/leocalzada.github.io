@@ -27,26 +27,34 @@
         href: "mailto:leonardo.calzada@rutgers.edu"  
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+## About Me
 
-## Education
+I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and "Sembrando Vida," on forest dynamics and local governance in the Yucatan Peninsula. My work draws on politcal ecology, ecological modeling, and spatial methodologies to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local viewpoints and ecological complexities.
 
-Rutgers University, San Diego | New Jersey, USA
+## Reseach Interest
+
+Land System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology
+
+## Curriculum Vitae Sample
+
+### Academic History
+
+Rutgers University
 PhD in Geography | 2020 - Present
 
-National Autonomous University of Mexico | Mexico City, Mexico <br>
+National Autonomous University of Mexico <br>
 MS -- Biological Sciences| 2017 - 2019 <br>
 BS -- Biology | 2011 - 2015
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Research Assistant | Department of Geography Rugers University | 2021 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+Deputy Director of Biosafety Communication |Mexican Biosafety Commission (CIBIOGEM)  | 2019 - 2020
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">Check projects</a>
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">Research projects</a>
 </div>
 ```
 
