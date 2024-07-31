@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "Leonardo Calzada"                                # Your name
+  description: "PhD Candidate in Geography, Rutgers University"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -17,22 +17,26 @@ website:
     left:
       - text: "Projects"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
       - text: "CV"
+        href: cv/index.qmd
+      - text: "News"
+        href: cv/index.qmd
+      - text: "Contact me"
         href: cv/index.qmd
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
-      - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: https://twitter.com/le_calzada
+      - icon: github
+        href: https://github.com/leocalzada
+      - icon: instagram
+        href: https://www.instagram.com/lecalzada/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:leonardo.calzada@rutgers.edu"  
   
   
 
@@ -42,11 +46,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; CC-By Leonardo Calzada</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+    
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block">This page is built with ❤️ and Quarto, with theme from marvinschmitt</span>
 
 project:
   type: website
@@ -65,8 +69,8 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      - pulse
-      - html/styles.scss
+      dark: darkly
+    css: html/styles.scss
     toc: false
     code-link: true
     anchor-sections: true
