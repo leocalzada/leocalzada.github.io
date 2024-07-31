@@ -1,0 +1,15 @@
+{
+  "hash": "cc79527c546a260c550f6e305abcd64c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publications\"\nformat: \n  html:\n    code-fold: true\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nRefManageR::BibOptions(check.entries = FALSE, \n                       style = \"markdown\",\n                       bib.style = \"numeric\",\n                       sorting = \"ydnt\",\n                       max.names=99)\nbib <- RefManageR::ReadBib(\"references.bib\", .Encoding = \"UTF-8\", \n                           check = 'warn')\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: Ortega_Uribe2014-zf  (line86) :\n\tA bibentry of bibtype 'Article' has to specify the field: c(\"journaltitle\", \"journal\")\n```\n\n\n:::\n\n```{.r .cell-code}\n# All Article entries type\nbibArticle <- bib[bibtype=\"Article\"] \n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

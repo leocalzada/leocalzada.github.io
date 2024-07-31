@@ -1,0 +1,19 @@
+---
+title: Contact Me
+format: html
+---
+
+**Feel free to reach out!**
+
+<form action="https://formspree.io/your-email" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="_replyto" required>
+
+  <label for="message">Message:</label>
+  <textarea id="message" name="message"></textarea>
+
+  <button type="submit">Send</button>
+</form>

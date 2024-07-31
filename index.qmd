@@ -3,6 +3,8 @@
   about:
     template: trestles
     image: "img/my_image.jpg"
+    image-shape: round
+    image-width: 20em
     links:
       - icon: twitter
         text: Twitter
