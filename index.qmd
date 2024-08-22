@@ -31,7 +31,7 @@
 
 ## About Me
 
-I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and "Sembrando Vida," on forest dynamics and local governance in the Yucatan Peninsula. My work draws on politcal ecology, ecological modeling, and spatial methodologies to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local viewpoints and ecological complexities.
+I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program "Sembrando Vida", on forest dynamics and local governance in the Yucatan Peninsula. My work draws on political ecology, land system science and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.
 
 ## Reseach Interest
 
@@ -50,13 +50,15 @@ BS -- Biology | 2011 - 2015
 
 ## Experience
 
-Research Assistant | Department of Geography Rugers University | 2021 - present
+Research Assistant | Department of Geography Rutgers University | 2021 - present
 
 Deputy Director of Biosafety Communication |Mexican Biosafety Commission (CIBIOGEM)  | 2019 - 2020
 
+Cartography Consultant | National Biodiversity Commission (CONABIO) | 2016 - 2018
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">Research projects</a>
+<a class="btn btn-primary" href="https://explorers.nationalgeographic.org/directory/leonardo-calzada" role="button" target="_blank" style="padding: 15px 30px;">National Geographic Explorer Profile</a>
 </div>
 ```
 
