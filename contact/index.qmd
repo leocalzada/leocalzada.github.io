@@ -1,39 +1,25 @@
 ---
-title: "Laura Schneider"
-image: "../people/schneider-laura/avatar.jpg"
+title: "Leonardo Calzada"
+image: "../files/profiles/calzada-2024-square.jpg"
 about: 
   id: contact
   template: solana
   image-shape: round
-  image: "../people/schneider-laura/avatar.jpg"
+  image: "../files/profiles/calzada-2024-square.jpg"
 ---
 ::: {.column-body .center-text .bs-callout .bs-callout-info}
 
-### We always like to hear from interested individuals. 
-
-If you would like more information on how to be involved with the Land Systems Science Research Group, or Rutgers Geography, please contact me with your research interests and questions.
+### I’m always open to connecting with others interested in Land Systems Science, forest dynamics, common resource management and environmental policy.If you’re curious about my research or potential collaborations, feel free to reach out
 
 :::
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; laschnei@geography.rutgers.edu
+#### {{< fa envelope >}} &nbsp; leonardo.calzada@geography.rutgers.edu
 
-#### {{< fa phone >}} &nbsp; 848-445-8045
+#### {{< iconify bi instagram size=1.1em title='Instagram' >}} &nbsp; @lecalzada 
 
 #### {{< fa map-location-dot >}} &nbsp; Department of Geography, Rutgers University, NJ, USA.
 
 :::
-
-<br>
-
-```{r}
-#| echo: false
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-74.43477091164102, lat=40.52199601119243)
-```
-
-<br>
 
