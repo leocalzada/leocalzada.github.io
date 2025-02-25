@@ -1,0 +1,21 @@
+---
+title: Nizanda. Transformación ambiental y social en el Istmo oaxaqueño
+date: '2018-01-01'
+author:
+- name: F Figueroa
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

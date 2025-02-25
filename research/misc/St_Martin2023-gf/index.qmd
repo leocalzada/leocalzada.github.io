@@ -1,0 +1,23 @@
+---
+title: |-
+  Revealing Fishing Community Precarity and the Foundations of
+                    Environmental Justice
+date: '2023-01-01'
+author:
+- name: K St. Martin
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

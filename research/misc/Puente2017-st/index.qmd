@@ -1,0 +1,25 @@
+---
+title: |-
+  Dynamics of global change in the agriculture and food sector:
+                    factors influencing a case study in Central Mexico
+date: '2017-01-01'
+author:
+- name:
+  - M Puente
+  - B Puente
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,24 @@
+---
+title: |-
+  Guía para el diseño y ejecución de cursos interdisciplinarios.
+                 Aprendizajes derivados del curso de sistemas socio-ecológicos
+                 para la toma de decisiones
+date: '2014-01-01'
+author:
+- name: []
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

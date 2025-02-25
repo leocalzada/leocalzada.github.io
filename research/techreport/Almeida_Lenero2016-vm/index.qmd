@@ -1,0 +1,24 @@
+---
+title: |-
+  Evaluación esterna del Programa de Fondos de Apoyo para la
+                   Conservación y Restauración de los Ecosistemas a través de la
+                   Participación Social
+date: '2016-01-01'
+author:
+- name: L Almeida Leñero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

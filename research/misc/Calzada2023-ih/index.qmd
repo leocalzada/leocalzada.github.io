@@ -1,0 +1,23 @@
+---
+title: |-
+  Forest degradation patterns and Sembrando Vida in the
+                    {Calakmul—Sian} Ka'an Biological Corridor, Mexico
+date: '2023-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,24 @@
+---
+title: |-
+  Participatory community assessment: community monitoring as a
+                    foundation for the conservation of the Water Forest in Central
+                    Mexico
+date: '2016-01-01'
+author:
+- name: L Almeida-Leñero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

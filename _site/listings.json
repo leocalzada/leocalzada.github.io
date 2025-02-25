@@ -1,0 +1,66 @@
+[
+  {
+    "listing": "/outreach/index.html",
+    "items": []
+  },
+  {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/unpublished/CalzadaUnknown-ch/index.html",
+      "/research/unpublished/CalzadaUnknown-ny/index.html",
+      "/research/article/Selden2024-wh/index.html",
+      "/research/article/Figueroa2020-he/index.html",
+      "/research/article/Calzada2018-ar/index.html",
+      "/research/article/Wegier2018-vb/index.html",
+      "/research/article/Ortega_Uribe2014-zf/index.html",
+      "/research/article/FigueroaUnknown-gk/index.html",
+      "/research/incollection/Figueroa2019-lq/index.html",
+      "/research/incollection/Puente_Uribe2017-wn/index.html",
+      "/research/book/Figueroa2018-qs/index.html",
+      "/research/book/Figueroa2018-yg/index.html",
+      "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2017-rt/index.html",
+      "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2016-ii/index.html",
+      "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2016-vx/index.html",
+      "/research/book/Gonzalez-Jimenez2014-hx/index.html",
+      "/research/techreport/Bermudez2024-qf/index.html",
+      "/research/techreport/Almeida_Lenero2016-vm/index.html",
+      "/research/techreport/Almeida_Lenero2015-xf/index.html",
+      "/research/techreport/Almeida_Lenero2014-pi/index.html",
+      "/research/techreport/Almeida_Lenero2014-pu/index.html",
+      "/research/techreport/Almeida_Lenero2014-xi/index.html",
+      "/research/misc/Calzada2024-is/index.html",
+      "/research/misc/Calzada2023-ge/index.html",
+      "/research/misc/Calzada2023-ih/index.html",
+      "/research/misc/St-Martin2023-tq/index.html",
+      "/research/misc/St_Martin2023-gf/index.html",
+      "/research/misc/St_Martin2023-lx/index.html",
+      "/research/misc/Calzada2022-im/index.html",
+      "/research/misc/Calzada2022-jq/index.html",
+      "/research/misc/Kitchel2022-hp/index.html",
+      "/research/misc/Rader2022-fo/index.html",
+      "/research/misc/Calzada2021-xq/index.html",
+      "/research/misc/Sosa2019-bw/index.html",
+      "/research/misc/Calzada2017-af/index.html",
+      "/research/misc/Puente2017-st/index.html",
+      "/research/misc/Almeida-Lenero2016-do/index.html",
+      "/research/misc/Figueroa2016-bq/index.html",
+      "/research/misc/Calzada2015-el/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+---
+title: 'La Biodiversidad en Coahuila: Estudio de Estado'
+date: '2017-01-01'
+author:
+- name: ' [CONABIO] Comisión Nacional Para el Conocimiento y Uso de la Biodiversidad'
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

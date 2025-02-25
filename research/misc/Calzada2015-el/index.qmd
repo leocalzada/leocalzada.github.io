@@ -1,0 +1,23 @@
+---
+title: |-
+  Evaluación multi-escalar del {PSAH} en dos comunidades de la
+                    Cuenca de México
+date: '2015-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

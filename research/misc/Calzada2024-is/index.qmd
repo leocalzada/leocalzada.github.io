@@ -1,0 +1,23 @@
+---
+title: |-
+  Heterogeneous landscapes in the southern Yucatan: Sembrando
+                    Vida and land use within state-led development interventions
+date: '2024-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Conferences'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

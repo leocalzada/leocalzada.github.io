@@ -1,0 +1,23 @@
+---
+title: |-
+  Estrategia para la Conservación del Bosque de Agua Informe
+                   final: Reporte general regional
+date: '2014-01-01'
+author:
+- name: L Almeida Leñero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,24 @@
+---
+title: |-
+  Successional Clustering: Structural and compositional recovery
+                    in a seasonally dry tropical forest after hurricane
+                    disturbance in the Mexican Mesoamerican Biological Corridor
+date: '2022-01-01'
+author:
+- name: A Rader
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

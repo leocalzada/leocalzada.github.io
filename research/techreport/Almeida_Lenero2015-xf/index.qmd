@@ -1,0 +1,23 @@
+---
+title: |-
+  Evaluación externa del Programa de Redistribución por la
+                   Conservación de Servicios Ambientales ({PRCSA})
+date: '2015-01-01'
+author:
+- name: L Almeida Leñero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

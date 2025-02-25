@@ -1,0 +1,65 @@
+---
+title: "Research"
+listing:
+  - id: unpublished
+    contents: "unpublished/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: articles
+    contents: "article/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: book-chapters
+    contents: "incollection/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs   
+  - id: books
+    contents: "book/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: techreports
+    contents: "techreport/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: seminar-papers
+    contents: "misc/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research explores the relationship between land-use change, environmental governance, and socio-ecological systems. I investigate how public policies and development interventions shape human-environment interactions, examining ecological dynamics, resource management, and community livelihoods. My work bridges political ecology and land system science to understand socio-environmental change across diverse landscapes. {{< ai blank-just-to-add-ai-dependency-to-this-page >}}
+
+## In prep.
+:::{#unpublished}
+:::
+
+## Journal articles
+
+:::{#articles}
+:::
+
+
+## Book chapters
+
+:::{#book-chapters}
+:::
+
+## Collaboration in books
+
+:::{#books}
+:::
+
+## Selected conferences
+
+:::{#seminar-papers}
+:::
+
+## Technical reports
+
+:::{#seminar-papers}
+:::

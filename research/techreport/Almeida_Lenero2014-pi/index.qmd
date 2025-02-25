@@ -1,0 +1,24 @@
+---
+title: |-
+  Estrategia para la conservación del bosque de agua: Diagnóstico
+                   participativo de la comunidad de San Miguel Topilejo, Distrito
+                   Federal
+date: '2014-01-01'
+author:
+- name: L Almeida Leñero
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

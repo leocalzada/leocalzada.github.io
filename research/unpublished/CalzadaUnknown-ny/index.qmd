@@ -1,0 +1,24 @@
+---
+title: |-
+  Local perspectives and institutional bricolage around conservation
+                and development: The case of \textit{Sembrando Vida} and the Maya
+                Train in Southern Yucatan Peninsula
+date: -01-01
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Papers'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

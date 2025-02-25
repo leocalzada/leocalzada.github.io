@@ -1,0 +1,23 @@
+---
+title: |-
+  Prácticas agrícolas y conservación de la agrobiodiversidad en
+                 Amatlán de Quetzalcóatl
+date: '2017-01-01'
+author:
+- name: B Puente Uribe
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

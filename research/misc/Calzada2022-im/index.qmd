@@ -1,0 +1,24 @@
+---
+title: |-
+  La Transformation del Istmo Oaxaqueño ' Intervenciones de
+                    desarrollo y su impacto en la dinámica agropecuaria y de
+                    urbanización
+date: '2022-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,21 @@
+---
+title: Gobernanza del Manejo de los Recursos Forestales en México
+date: '2019-01-01'
+author:
+- name: Fernanda Figueroa
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Oaxaca; Recursos forestales; Sistemas socio-ecológicos; EPUB'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

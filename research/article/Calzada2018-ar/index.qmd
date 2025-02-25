@@ -1,0 +1,23 @@
+---
+title: |-
+  Lands at risk: Land use/land cover change in two contrasting
+                 tropical dry regions of Mexico
+date: '2018-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,43 +1,55 @@
 ---
-  title: Leonardo Calzada
-  about:
-    template: trestles
-    image: "img/my_image.jpg"
-    image-shape: round
-    image-width: 20em
-    links:
-      - icon: twitter
-        text: Twitter
-        href: https://twitter.com/le_calzada
-      - icon: github
-        text: Github
-        href: https://github.com/leocalzada
-      - icon: instagram
-        text: Instagram
-        href: https://www.instagram.com/lecalzada/
-      - text: "{{< ai google-scholar >}} Google Scholar"
-        href: https://scholar.google.com/citations?user=voVedNAAAAAJ&hl=en
-      - text: "{{< ai researchgate >}} ResearchGate"
-        href: https://www.researchgate.net/profile/Leonardo-Calzada
-      - icon: linkedin
-        text: LinkedIn
-        href: https://www.linkedin.com/in/leonardocalzada/
-      - text: "{{< ai orcid >}} ORCID"
-        href: https://orcid.org/0000-0003-1071-8430
-      - icon: envelope
-        text: Email
-        href: "mailto:leonardo.calzada@rutgers.edu"  
+title: ""
+pagetitle: "Leonardo Calzada"
+description-meta: ""
+main-photo: /files/profiles/calzada-2024.jpg
+main-photo-square: /files/profiles/calzada-2024-square.jpg
+title-block-banner: "#e2e2da"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
 ---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
 
 ## About Me
 
-I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program "Sembrando Vida", on forest dynamics and local governance in the Yucatan Peninsula. My work draws on political ecology, land system science and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.
+I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program "Sembrando Vida", on forest dynamics and local governance in the Yucatan Peninsula. 
+
+My work draws on land system science, political ecology, and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+  <a class="btn btn-primary" href="https://explorers.nationalgeographic.org/directory/leonardo-calzada" role="button"
+  target="_blank" style="padding: 15px 30px;">National Geographic Explorer Profile</a>
+</div>
+```
+
 
 ## Reseach Interest
 
 Land System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology
-
-## Curriculum Vitae Sample
 
 ### Academic History
 
@@ -48,17 +60,7 @@ National Autonomous University of Mexico <br>
 MS -- Biological Sciences| 2017 - 2019 <br>
 BS -- Biology | 2011 - 2015
 
-## Experience
 
-Research Assistant | Department of Geography Rutgers University | 2021 - present
+:::
 
-Deputy Director of Biosafety Communication |Mexican Biosafety Commission (CIBIOGEM)  | 2019 - 2020
-
-Cartography Consultant | National Biodiversity Commission (CONABIO) | 2016 - 2018
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://explorers.nationalgeographic.org/directory/leonardo-calzada" role="button" target="_blank" style="padding: 15px 30px;">National Geographic Explorer Profile</a>
-</div>
-```
-
+:::

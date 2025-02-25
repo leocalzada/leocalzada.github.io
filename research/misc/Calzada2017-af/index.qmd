@@ -1,0 +1,23 @@
+---
+title: |-
+  Socio-ecological dynamics linked to hydrological ecosystem
+                    services provision in seasonal-dry forests in southern Mexico
+date: '2017-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

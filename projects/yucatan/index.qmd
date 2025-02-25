@@ -1,0 +1,30 @@
+---
+title: "Environmental Disturbance in the Greater Yucatan"
+---
+```{=html}
+<div class="back-nav"><a href="/projects/">← Back to Projects</a></div>
+```
+:::{.column-page}
+
+The Environmental Disturbances in the Greater Yucatán (EDGY) project is a joint effort of Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR). Our project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. We employ a combination of methods including, but not limited to, remote sensing analysis, ecological field assessments, household- and community-level interviews and surveys.
+
+![](hurricanemap_orig.png)
+
+Current research efforts include understanding how land use and biophysical properties combine to inform tropical forest resilience and regeneration following disturbances. This objective includes multi-scalar investigation of 1) regional mapping and monitoring of tropical secondary forest using remote sensing and spatial modeling 2) individual- and plot-level biomass recovery analysis 3) feedback between land use and forest ecosystem dynamics through participatory mapping and community focus groups. 
+
+::: {layout-valign="center" .grid}
+::: {.g-col-6}
+![](bacalar.jpg){width=80%}
+:::
+::: {.g-col-6}
+![](corridor.jpg){width=80%}
+:::
+:::
+:::
+
+## Project Support
+
+<!-- ::: {layout-ncol=3} -->
+![](gordonbettymoore.jpg)
+![](nasa.jpg)
+![](nsf.png)

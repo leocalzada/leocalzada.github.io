@@ -1,79 +1,92 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
-
-# website settings
-website:
-  title: "Leonardo Calzada"                                # Your name
-  description: "PhD Candidate in Geography, Rutgers University"   # A brief slogan (optional)
-  image: img/my_image.jpg
-  
-  favicon: img/favicon.png
-  
-  # start of the navigation bar at the top of the website
-  navbar:
-    pinned: true
-    logo: /img/logo.png
-    
-    # your sub-pages
-    left:
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Publications"
-        href: pubs/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
-      - text: "News"
-        href: cv/index.qmd
-      - text: "Contact me"
-        href: contact/index.qmd
-    
-    # your social media handles
-    right:
-      - icon: twitter
-        href: https://twitter.com/le_calzada
-      - icon: github
-        href: https://github.com/leocalzada
-      - icon: instagram
-        href: https://www.instagram.com/lecalzada/
-      - icon: envelope
-        aria-label: email
-        href: "mailto:leonardo.calzada@rutgers.edu"  
-  
-  
-
-# Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar
-    type: textbox
-  page-footer: 
-    left: |
-      <span class="faux-block">&#169; CC-By Leonardo Calzada</span>
-    center: |
-    
-    right: |
-      <span class="faux-block">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>, with theme from <a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">marvinschmitt </a> </span>
-
 project:
   type: website
-  output-dir: docs
 
   preview: 
-    port: 22222
+    port: 5555
     browser: true
     watch-inputs: true
     navigate: true
 
-execute:
-  freeze: true
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+
+  resources:
+    - "files/**"
+    - "etc/**"
+
+freeze: true
+
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
+
+# Metadata stuff
+pagetitle: "Leonardo Calzada"
+author-meta: "Leonardo Calzada"
+
+website:
+  title: "Leonardo Calzada"
+  description: ""
+  favicon: "/files/favicon.png"
+  site-url: ""
+  repo-url: "https://github.com/leocalzada/leocalzada.github.io"
+
+  google-analytics: ""
+  
+  navbar:
+    pinned: true
+
+    left:
+      - text: "Research"
+        file: research/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Outreach"
+        href: outreach/index.qmd
+      - text: "CV"
+        href: "cv/index.qmd"
+      - text: "Blog"
+        file: blog/index.qmd
+      - text: "Contact"
+        href: now/index.qmd
+    
+    right:
+      # - text: "{{< iconify bi rss size=1.1em title='RSS' >}}"
+      #   href: atom.xml
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:leonardo.calzada@rutgers.edu"
+        rel: me
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/leocalzada
+        rel: me
+      - text: "{{< iconify bi instagram size=1.1em title='Instagram' >}}"
+        href: https://www.instagram.com/lecalzada/
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/leonardocalzada/
+        rel: me
+  
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Leonardo Calzada</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with ❤️, {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 
 format:
   html:
-    fontsize: 1.1em
     theme: 
-      dark: darkly
-    css: html/styles.scss
+      - html/ath.scss
+    grid: 
+      body-width: 900px
     toc: false
     code-link: true
     anchor-sections: true
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
+    highlight-style: monokai

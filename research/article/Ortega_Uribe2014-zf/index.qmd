@@ -1,0 +1,23 @@
+---
+title: |-
+  Estudios transdisciplinarios en socio-ecosistemas: Reflexiones
+                 teóricas y su aplicación en contextos latinoamericanos
+date: '2014-01-01'
+author:
+- name: T Ortega Uribe
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

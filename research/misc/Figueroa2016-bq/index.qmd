@@ -1,0 +1,21 @@
+---
+title: Gobernanza en el manejo de los recursos forestales
+date: '2016-01-01'
+author:
+- name: F Figueroa
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

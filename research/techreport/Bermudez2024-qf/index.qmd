@@ -1,0 +1,27 @@
+---
+title: |-
+  Scientific Dossier on Genetically Modified Corn and Its
+                   Effects. Effects of {GM} corn on human health, the environment
+                   and biodiversity, including the biocultural richness of native
+                   corn in Mexico
+date: '2024-01-01'
+author:
+- name:
+  - García Bermúdez
+  - E Bermúdez
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Reports'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: https://usrtk.org/wp-content/uploads/2024/11/DOSSIER-MAIZ-2024-ENGfinal-5.pdf
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

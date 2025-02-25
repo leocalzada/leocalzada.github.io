@@ -1,0 +1,23 @@
+---
+title: |-
+  Integrating pattern-based modelling and political ecology in
+                 land-use change research: the case of Mexican dry tropics
+date: '2020-01-01'
+author:
+- name: Fernanda Figueroa
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- History of territorialization;Papers'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.1080/1747423x.2019.1681527
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

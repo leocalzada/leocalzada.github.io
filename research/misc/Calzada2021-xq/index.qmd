@@ -1,0 +1,23 @@
+---
+title: |-
+  What is a port without its vessels? -- Decline and
+                    Consolidation in the Fishing Ports of the Northeast
+date: '2021-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,23 @@
+---
+title: |-
+  Forest Degradation Dynamics in the Calakmul-Sian Ka’an Corridor:
+                Disturbance Interactions and Biomass Change
+date: In prep
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Papers'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

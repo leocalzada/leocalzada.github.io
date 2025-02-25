@@ -1,0 +1,23 @@
+---
+title: |-
+  A matter of time - Detecting vegetation change and biomass
+                    temporal response to disturbances in the Maya Forest, Mexico
+date: '2022-01-01'
+author:
+- name: L Calzada
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

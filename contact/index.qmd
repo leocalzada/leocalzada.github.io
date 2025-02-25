@@ -1,19 +1,39 @@
 ---
-title: Contact Me
-format: html
+title: "Laura Schneider"
+image: "../people/schneider-laura/avatar.jpg"
+about: 
+  id: contact
+  template: solana
+  image-shape: round
+  image: "../people/schneider-laura/avatar.jpg"
 ---
+::: {.column-body .center-text .bs-callout .bs-callout-info}
 
-**Feel free to reach out!**
+### We always like to hear from interested individuals. 
 
-<form action="https://formspree.io/your-email" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
+If you would like more information on how to be involved with the Land Systems Science Research Group, or Rutgers Geography, please contact me with your research interests and questions.
 
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="_replyto" required>
+:::
 
-  <label for="message">Message:</label>
-  <textarea id="message" name="message"></textarea>
+:::{#contact}
 
-  <button type="submit">Send</button>
-</form>
+#### {{< fa envelope >}} &nbsp; laschnei@geography.rutgers.edu
+
+#### {{< fa phone >}} &nbsp; 848-445-8045
+
+#### {{< fa map-location-dot >}} &nbsp; Department of Geography, Rutgers University, NJ, USA.
+
+:::
+
+<br>
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-74.43477091164102, lat=40.52199601119243)
+```
+
+<br>
+

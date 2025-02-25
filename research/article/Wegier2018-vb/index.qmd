@@ -1,0 +1,23 @@
+---
+title: |-
+  Beef or grasshopper hamburgers: The ecological implications of
+                 choosing one over the other
+date: '2018-01-01'
+author:
+- name: A Wegier
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

@@ -1,0 +1,23 @@
+---
+title: |-
+  Trends of Conservation and Development in Mexican Biosphere
+                    Reserves: Spatial Analysis and Linear Mixed Model
+date: '2019-01-01'
+author:
+- name: C Sosa
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

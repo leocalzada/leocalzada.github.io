@@ -1,0 +1,23 @@
+---
+title: |-
+  Mapping Precarious Fishing Communities as a Foundation for
+                    Environmental Justice
+date: '2023-01-01'
+author:
+- name: K St. Martin
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

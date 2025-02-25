@@ -1,0 +1,24 @@
+---
+title: |-
+  Distinct patterns in historical mobility and catch flexibility
+                    underscore intra-port variation in potential adaptive capacity
+                    to climate change
+date: '2022-01-01'
+author:
+- name: Z Kitchel
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: []
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: ''
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---

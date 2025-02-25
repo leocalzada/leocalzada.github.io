@@ -1,0 +1,26 @@
+---
+title: |-
+  Using historical catch flexibility and fishing ground mobility as
+                 measures of the adaptive capacity of fishing communities to
+                 future ocean change
+date: '2024-01-01'
+author:
+- name:
+  - Rebecca Selden
+  - L Selden
+  url: ''
+  orcid: ''
+  affiliation: ''
+categories: '- Papers'
+pub-info:
+  reference: ''
+  links:
+  - name: Final version
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=voVedNAAAAAJ:zYLM7Y9cAGgC
+    icon: fa-solid fa-scroll
+haiku:
+- ''
+- ''
+- ''
+
+---
