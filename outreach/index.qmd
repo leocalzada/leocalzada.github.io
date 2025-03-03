@@ -22,6 +22,7 @@ booklet:
 ---
 
 :::
+
 ### My lastest work
 
 You can explore *Entre selvas y comunidades*, our outreach booklet on how development and conservation initiatives, along with public policies, shape communities and landscapes in the Calakmul-Sian Ka’an corridor. This project was made possible thanks to the support of Fulbright and the National Geographic Society.
@@ -30,7 +31,7 @@ You can explore *Entre selvas y comunidades*, our outreach booklet on how develo
 ```{css echo=FALSE}
 .embed-container {
     position: relative;
-    padding-bottom: 129%;
+    padding-bottom: 90%;
     height: 0;
     overflow: hidden;
     max-width: 100%;
