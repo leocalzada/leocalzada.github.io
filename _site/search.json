@@ -7,53 +7,60 @@
     "text": "Download current CV"
   },
   {
-    "objectID": "projects/yucatan/index.html",
-    "href": "projects/yucatan/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Leonardo Calzada",
+    "section": "",
+    "text": "I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program “Sembrando Vida”, on forest dynamics and local governance in the Yucatan Peninsula.\nMy work draws on land system science, political ecology, and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.\n\n  National Geographic Explorer Profile\n\n\n\n\nLand System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology\n\n\nRutgers University PhD in Geography | 2020 - Present\nNational Autonomous University of Mexico  MS – Biological Sciences| 2017 - 2019  BS – Biology | 2011 - 2015"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Leonardo Calzada",
+    "section": "",
+    "text": "I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program “Sembrando Vida”, on forest dynamics and local governance in the Yucatan Peninsula.\nMy work draws on land system science, political ecology, and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.\n\n  National Geographic Explorer Profile"
+  },
+  {
+    "objectID": "index.html#reseach-interest",
+    "href": "index.html#reseach-interest",
+    "title": "Leonardo Calzada",
+    "section": "",
+    "text": "Land System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology\n\n\nRutgers University PhD in Geography | 2020 - Present\nNational Autonomous University of Mexico  MS – Biological Sciences| 2017 - 2019  BS – Biology | 2011 - 2015"
+  },
+  {
+    "objectID": "now/index.html",
+    "href": "now/index.html",
+    "title": "What I’m doing now",
+    "section": "",
+    "text": "As of August 19, 2024, I’m spending all my time on these things:\n\nStaying at home pretty much 24/7 (STILL) because of the COVID-19 pandemic\nRaising 6 kids (17, 14.5, 12, 9, 6.5, and 2.5) and trying to stay sane (family blog)\nLiving in Atlanta and working as an assistant professor in the Department of Public Management and Policy at the Andrew Young School of Policy Studies at Georgia State University\nTeaching data visualization, program evaluation, comparative public administration, nonprofit management, and microeconomics at the Andrew Young School of Policy Studies at Georgia State University\nWorking as a part time data science mentor for Posit Academy\nConverting my dissertation into multiple articles and sending them out to journals + continuing my research on authoritarianism and international NGOs\nWorking on several articles on NGO restrictions with Suparna Chaudhry and Marc Dotson\nReading some sort of religiously themed text every day (books)"
+  },
+  {
+    "objectID": "projects/repos/yucatan/yuc-repo.html",
+    "href": "projects/repos/yucatan/yuc-repo.html",
     "title": "Environmental Disturbance in the Greater Yucatan",
     "section": "",
-    "text": "← Back to Projects"
+    "text": "Environmental Disturbance in the Greater Yucatan The Environmental Disturbances in the Greater Yucatán (EDGY) project is a joint effort of Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR). Our project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. We employ a combination of methods including, but not limited to, remote sensing analysis, ecological field assessments, household- and community-level interviews and surveys.\nCurrent research efforts include understanding how land use and biophysical properties combine to inform tropical forest resilience and regeneration following disturbances. This objective includes multi-scalar investigation of 1) regional mapping and monitoring of tropical secondary forest using remote sensing and spatial modeling 2) individual- and plot-level biomass recovery analysis 3) feedback between land use and forest ecosystem dynamics through participatory mapping and community focus groups.\nSelected related publications from the Land Systems Science Research Group: Landscape analysis of forest damage after Hurricane Dean 2007 Effects of wind disturbance on biodiversity\nSee more publications from the Southern Yucatan Peninsula Region"
   },
   {
-    "objectID": "projects/yucatan/index.html#project-support",
-    "href": "projects/yucatan/index.html#project-support",
-    "title": "Environmental Disturbance in the Greater Yucatan",
-    "section": "Project Support",
-    "text": "Project Support"
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Leonardo Calzada",
+    "section": "",
+    "text": "I’m always open to connecting with others interested in Land Systems Science, forest dynamics, common resource management and environmental policy.If you’re curious about my research or potential collaborations, feel free to reach out\n\n\n  \n    \n       \n      \n\n   leonardo.calzada@geography.rutgers.edu\n\n\n   (lecalzada?)\n\n\n   Department of Geography, Rutgers University, NJ, USA."
   },
   {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            January 12, 2024\n        \n        \n            DIY API with Make and {plumber}\n\n            \n            \n                \n                \n                    r\n                \n                \n                \n                    tidyverse\n                \n                \n                \n                    quarto\n                \n                \n                \n                    observablejs\n                \n                \n                \n                    plumber\n                \n                \n                \n                    api\n                \n                \n                \n                    make\n                \n                \n                \n                    goals\n                \n                \n            \n            \n\n            Use Make and {plumber} to create your own API and show live data in Quarto with R and Observable JS\n            \n            \n             10.59350/pe5s8-e0f47\n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html",
+    "href": "blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html",
+    "title": "DIY API with Make and {plumber}",
+    "section": "",
+    "text": "Complete tutorial and code\n\n\n\nSee the full tutorial here. You can also see the tutorial’s code here and the code for the final API here.\n\n\nFor years, I’ve tracked all sorts of data about myself (and my family) through Google Forms, Airtable, and devices like Fitbits to keep track of all sorts of things: personal goals, progress of research projects, current health status, books read, and so on.\nIt’s nice to have all this data, but it’s hard to use it all immediately. I often look at it at the end of the year, or every few months, or whatever, but having an instant snapshot is helpful too. That’s why people invented data dashboards, after all.\nI like R a lot, and R has the ability to make dashboards, like with {flexdashboard} and Shiny. I’ve made several dashboards for tracking things like health and reading and research—I even have a blog post about making one with {flexdashboard}! But I’ve always run into issues with getting live data. With {flexdashboard}, you can make it grab the most recent version of the data you’re interested in when you knit the document, but then to update the graphs and tables in the document, you have to re-knit it. With Shiny, there are ways to dynamically grab the latest data, but then you have to run a whole Shiny server, and that’s hard and costs money and it’s slow—it can sometimes take a few minutes to reanimate a hibernating Shiny app!\nHowever, nowadays it’s possible to use Observable JS chunks in Quarto that automatically grab live data from the internet and display it, like this:\n\n\n\n\nOverview of the process\n\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{heiss2024,\n  author = {Heiss, Andrew},\n  title = {DIY {API} with {Make} and \\{Plumber\\}},\n  date = {2024-01-12},\n  doi = {10.59350/pe5s8-e0f47},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nHeiss, Andrew. 2024. “DIY API with Make and {Plumber}.”\nJanuary 12, 2024. https://doi.org/10.59350/pe5s8-e0f47."
   },
   {
-    "objectID": "blog/index.html#section-1",
-    "href": "blog/index.html#section-1",
-    "title": "Blog",
-    "section": "2023",
-    "text": "2023\n\n\n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-2",
-    "href": "blog/index.html#section-2",
-    "title": "Blog",
-    "section": "2022",
-    "text": "2022\n\n\n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-3",
-    "href": "blog/index.html#section-3",
-    "title": "Blog",
-    "section": "2021",
-    "text": "2021\n\n\n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-4",
-    "href": "blog/index.html#section-4",
-    "title": "Blog",
-    "section": "2020",
-    "text": "2020\n\n\n    \n\n\nNo matching items"
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Territorial Dynamics in the Calakmul Sian Ka'an Corridor \n                \n            \n            \n                Mexico | \n                Rutgers University, Universidad Nacional Autónoma de México\n                \n            \n            The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. \n\n            \n                \n                \n                 See more\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Environmental Disturbance in the Greater Yucatan \n                \n            \n            \n                Mexico | \n                Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)\n                \n            \n            The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. \n\n            \n                \n                \n                 See more\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
@@ -105,129 +112,66 @@
     "text": "Technical reports"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Territorial Dynamics in the Calakmul Sian Ka'an Corridor \n                \n            \n            \n                Mexico | \n                Rutgers University, Universidad Nacional Autónoma de México\n                \n            \n            The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. \n\n            \n                \n                \n                 See more\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Environmental Disturbance in the Greater Yucatan \n                \n            \n            \n                Mexico | \n                Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR)\n                \n            \n            The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. \n\n            \n                \n                \n                 See more\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            January 12, 2024\n        \n        \n            DIY API with Make and {plumber}\n\n            \n            \n                \n                \n                    r\n                \n                \n                \n                    tidyverse\n                \n                \n                \n                    quarto\n                \n                \n                \n                    observablejs\n                \n                \n                \n                    plumber\n                \n                \n                \n                    api\n                \n                \n                \n                    make\n                \n                \n                \n                    goals\n                \n                \n            \n            \n\n            Use Make and {plumber} to create your own API and show live data in Quarto with R and Observable JS\n            \n            \n             10.59350/pe5s8-e0f47\n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Leonardo Calzada",
-    "section": "",
-    "text": "I’m always open to connecting with others interested in Land Systems Science, forest dynamics, common resource management and environmental policy.If you’re curious about my research or potential collaborations, feel free to reach out\n\n\n  \n    \n       \n      \n\n   leonardo.calzada@geography.rutgers.edu\n\n\n   (lecalzada?)\n\n\n   Department of Geography, Rutgers University, NJ, USA."
+    "objectID": "blog/index.html#section-1",
+    "href": "blog/index.html#section-1",
+    "title": "Blog",
+    "section": "2023",
+    "text": "2023\n\n\n    \n\n\nNo matching items"
   },
   {
-    "objectID": "blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html",
-    "href": "blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html",
-    "title": "DIY API with Make and {plumber}",
+    "objectID": "blog/index.html#section-2",
+    "href": "blog/index.html#section-2",
+    "title": "Blog",
+    "section": "2022",
+    "text": "2022\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section-3",
+    "href": "blog/index.html#section-3",
+    "title": "Blog",
+    "section": "2021",
+    "text": "2021\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section-4",
+    "href": "blog/index.html#section-4",
+    "title": "Blog",
+    "section": "2020",
+    "text": "2020\n\n\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/yucatan/index.html",
+    "href": "projects/yucatan/index.html",
+    "title": "Environmental Disturbance in the Greater Yucatan",
     "section": "",
-    "text": "Complete tutorial and code\n\n\n\nSee the full tutorial here. You can also see the tutorial’s code here and the code for the final API here.\n\n\nFor years, I’ve tracked all sorts of data about myself (and my family) through Google Forms, Airtable, and devices like Fitbits to keep track of all sorts of things: personal goals, progress of research projects, current health status, books read, and so on.\nIt’s nice to have all this data, but it’s hard to use it all immediately. I often look at it at the end of the year, or every few months, or whatever, but having an instant snapshot is helpful too. That’s why people invented data dashboards, after all.\nI like R a lot, and R has the ability to make dashboards, like with {flexdashboard} and Shiny. I’ve made several dashboards for tracking things like health and reading and research—I even have a blog post about making one with {flexdashboard}! But I’ve always run into issues with getting live data. With {flexdashboard}, you can make it grab the most recent version of the data you’re interested in when you knit the document, but then to update the graphs and tables in the document, you have to re-knit it. With Shiny, there are ways to dynamically grab the latest data, but then you have to run a whole Shiny server, and that’s hard and costs money and it’s slow—it can sometimes take a few minutes to reanimate a hibernating Shiny app!\nHowever, nowadays it’s possible to use Observable JS chunks in Quarto that automatically grab live data from the internet and display it, like this:\n\n\n\n\nOverview of the process\n\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{heiss2024,\n  author = {Heiss, Andrew},\n  title = {DIY {API} with {Make} and \\{Plumber\\}},\n  date = {2024-01-12},\n  doi = {10.59350/pe5s8-e0f47},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nHeiss, Andrew. 2024. “DIY API with Make and {Plumber}.”\nJanuary 12, 2024. https://doi.org/10.59350/pe5s8-e0f47."
+    "text": "← Back to Projects"
+  },
+  {
+    "objectID": "projects/yucatan/index.html#project-support",
+    "href": "projects/yucatan/index.html#project-support",
+    "title": "Environmental Disturbance in the Greater Yucatan",
+    "section": "Project Support",
+    "text": "Project Support"
   },
   {
     "objectID": "outreach/index.html",
     "href": "outreach/index.html",
-    "title": "Talks",
+    "title": "Leonardo Calzada",
     "section": "",
-    "text": "This page contains the source code, links, and slides for various workshops, talks, lectures, and presentations I’ve given. Research presentations given at conferences are typically stored in their respective repositories on GitHub; one-off workshops and talks can all be found in a catch-all GitHub repository."
+    "text": "::: ### My lastest work\nYou can explore Entre selvas y comunidades, our outreach booklet on how development and conservation initiatives, along with public policies, shape communities and landscapes in the Calakmul-Sian Ka’an corridor. This project was made possible thanks to the support of Fulbright and the National Geographic Society.\nDownload our outreach booklet\n:::"
   },
   {
     "objectID": "outreach/index.html#section",
     "href": "outreach/index.html#section",
-    "title": "Talks",
-    "section": "2022",
-    "text": "2022\n\n\n\n    \n    \n                  \n            September 12, 2022\n        \n        \n            APIs and web scraping with R\n            Workshop for SEACEN's September 2022 online course on \"Data Analytics for Macroeconomic Surveillance\" | Kuala Lumpur, Malaysia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site, slides, and materials\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            February 22, 2022\n        \n        \n            Putting everything out there as a researcher\n            Workshop for EPID 9100 (PhD/MS seminar), Department of Epidemiology & Biostatistics, University of Georgia | Athens, Georgia\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-1",
-    "href": "outreach/index.html#section-1",
-    "title": "Talks",
-    "section": "2021",
-    "text": "2021\n\n\n\n    \n    \n                  \n            November 16, 2021\n        \n        \n            Introduction to the tidyverse + data visualization with ggplot2\n            Two sessions for SEACEN's November 2021 online course on \"Data Analytics for Macroeconomic Surveillance\" | Kuala Lumpur, Malaysia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site, slides, and materials\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            August 17, 2021\n        \n        \n            Making documents, websites, and dashboards with R\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site and slides\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 13, 2021\n        \n        \n            Introduction to Geographic Information Systems (GIS) data with R\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site and slides\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            June 29, 2021\n        \n        \n            Graphic design for public administrators\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Companion site and slides\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            March 4, 2021\n        \n        \n            Universal documents and reproducibility\n            Workshop for EPID 9100 (PhD/MS seminar), Department of Epidemiology & Biostatistics, University of Georgia | Athens, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Companion site\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            February 5, 2021\n        \n        \n            What does the internet say about you?\n            Workshop for the Political Science Graduate Student Association, Department of Political Science, Georgia State University | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-2",
-    "href": "outreach/index.html#section-2",
-    "title": "Talks",
-    "section": "2020",
-    "text": "2020\n\n\n\n    \n    \n                  \n            October 29, 2020\n        \n        \n            The US and the 2020 Election\n            Guest lecture for KIEN 2263 (English Academic and Professional Skills II), Centre for Language & Communication Studies, University of Turku | Turku, Finland (via Zoom)\n\n            \n            \n        \n    \n    \n    \n                  \n            October 23, 2020\n        \n        \n            Universal documents and reproducibility\n            \"Unpacking the Hidden Curriculum\": Graduate Student Professionalization Workshop, Department of Political Science, University of Utah | Salt Lake City, Utah (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Companion site\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 23, 2020\n        \n        \n            What does the internet say about you?\n            \"Unpacking the Hidden Curriculum\": Graduate Student Professionalization Workshop, Department of Political Science, University of Utah | Salt Lake City, Utah (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 17, 2020\n        \n        \n            Truth, beauty, and data: Why data visualization matters in research\n            Methods workshop in the Département de science politique, Université de Montréal | Montréal, Canada (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            August 21, 2020\n        \n        \n            Program evaluation and causal inference with R\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides and materials\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 20, 2020\n        \n        \n            Data visualization with R\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides and materials\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 16, 2020\n        \n        \n            What does the internet say about you?\n            Workshop for members of the International Society for Third-Sector Research (ISTR) | Online workshop via Zoom\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 9, 2020\n        \n        \n            Welcome to the tidyverse: Introduction to R and tidy data analysis\n            Workshop for the Georgia Policy Labs at the Andrew Young School of Policy Studies | Atlanta, Georgia (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides and materials\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 7, 2020\n        \n        \n            Truth, Beauty, and Data\n            Workshop on data visualization for employees of the Church of Jesus Christ of Latter-day Saints | Salt Lake City, Utah (via Zoom)\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-3",
-    "href": "outreach/index.html#section-3",
-    "title": "Talks",
-    "section": "2019",
-    "text": "2019\n\n\n\n    \n    \n                  \n            November 21, 2019\n        \n        \n            Why Donors Donate: Disentangling Organizational and Structural Heuristics for International Philanthropy\n            2019 Conference for the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) | San Diego, California\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            November 5, 2019\n        \n        \n            NGOs and authoritarianism\n            Guest lecture for International NGOs (PMAP 8201) | Atlanta, Georgia\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 18, 2019\n        \n        \n            Open source resources for teaching data public service-focused data science courses\n            2019 Conference for the Network of Schools of Public Policy, Affairs, and Administration (NASPAA) | Los Angeles, California\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 10, 2019\n        \n        \n            Data Science, Open Source, and Radical Transparency\n            Brown bag presentation to PhD students in the Andrew Young School of Policy Studies | Atlanta, Georgia\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 19, 2019\n        \n        \n            Curiosity, Transparency, and Failure\n            Guest talk to epidemiology PhD students at the University of Georgia | Athens, Georgia\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            May 14, 2019\n        \n        \n            \"Why won't this run again?!\": Making R analysis more reproducible\n            Utah County R Users Group | Provo, Utah\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-4",
-    "href": "outreach/index.html#section-4",
-    "title": "Talks",
-    "section": "2018",
-    "text": "2018\n\n\n\n    \n    \n                  \n            September 19, 2018\n        \n        \n            A lightning quick introduction to data visualization\n            Utah Valley University Department of Biology Seminar | Orem, Utah\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            July 11, 2018\n        \n        \n            Introduction to data visualization with R\n            Utah R Users Group | Salt Lake City, Utah\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Resources and code examples\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Video\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            June 12, 2018\n        \n        \n            Taking Control of Regulations: How International Advocacy NGOs Shape the Regulatory Environments of their Target Countries\n            Interest Groups, International Organizations, and Global Problem-solving Capacity workshop | Stockholm, Sweden\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for paper\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            April 27, 2018\n        \n        \n            A lightning quick introduction to data visualization\n            West Coast Nonprofit Data Conference | Salt Lake City, Utah\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository for talk\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Handout page\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-5",
-    "href": "outreach/index.html#section-5",
-    "title": "Talks",
-    "section": "2016",
-    "text": "2016\n\n\n\n    \n    \n                  \n            March 7, 2016\n        \n        \n            Telling Stories with Data\n            MPP workshop at the Sanford School of Public Policy, Duke University | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-6",
-    "href": "outreach/index.html#section-6",
-    "title": "Talks",
-    "section": "2015",
-    "text": "2015\n\n\n\n    \n    \n                  \n            October 16, 2015\n        \n        \n            Enhancing basic statistical figures: Make pretty pictures like the New York Times\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 2, 2015\n        \n        \n            Graphic Design for Non-Designers\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 15, 2015\n        \n        \n            A Very Brief Overview of Topics in Data Visualization\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            April 17, 2015\n        \n        \n            Telling Stories with Data\n            PhD workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-7",
-    "href": "outreach/index.html#section-7",
-    "title": "Talks",
-    "section": "2014",
-    "text": "2014\n\n\n\n    \n    \n                  \n            September 11, 2014\n        \n        \n            Data Visualization and Exploratory Data Analysis\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 2, 2014\n        \n        \n            Practically Perfect Professional Policy Presentations\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            January 22, 2014\n        \n        \n            Data Visualization and Exploratory Data Analysis\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/index.html#section-8",
-    "href": "outreach/index.html#section-8",
-    "title": "Talks",
-    "section": "2013",
-    "text": "2013\n\n\n\n    \n    \n                  \n            September 12, 2013\n        \n        \n            Telling Stories with Data\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 12, 2013\n        \n        \n            Practically Perfect Professional Policy Presentations\n            MPP workshop at the Sanford School of Public Policy | Durham, North Carolina\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub repository\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/repos/yucatan/yuc-repo.html",
-    "href": "projects/repos/yucatan/yuc-repo.html",
-    "title": "Environmental Disturbance in the Greater Yucatan",
-    "section": "",
-    "text": "Environmental Disturbance in the Greater Yucatan The Environmental Disturbances in the Greater Yucatán (EDGY) project is a joint effort of Rutgers University, Clark University, The University of Virginia, and El Colegio de la Frontera Sur (ECOSUR). Our project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. We employ a combination of methods including, but not limited to, remote sensing analysis, ecological field assessments, household- and community-level interviews and surveys.\nCurrent research efforts include understanding how land use and biophysical properties combine to inform tropical forest resilience and regeneration following disturbances. This objective includes multi-scalar investigation of 1) regional mapping and monitoring of tropical secondary forest using remote sensing and spatial modeling 2) individual- and plot-level biomass recovery analysis 3) feedback between land use and forest ecosystem dynamics through participatory mapping and community focus groups.\nSelected related publications from the Land Systems Science Research Group: Landscape analysis of forest damage after Hurricane Dean 2007 Effects of wind disturbance on biodiversity\nSee more publications from the Southern Yucatan Peninsula Region"
-  },
-  {
-    "objectID": "now/index.html",
-    "href": "now/index.html",
-    "title": "What I’m doing now",
-    "section": "",
-    "text": "As of August 19, 2024, I’m spending all my time on these things:\n\nStaying at home pretty much 24/7 (STILL) because of the COVID-19 pandemic\nRaising 6 kids (17, 14.5, 12, 9, 6.5, and 2.5) and trying to stay sane (family blog)\nLiving in Atlanta and working as an assistant professor in the Department of Public Management and Policy at the Andrew Young School of Policy Studies at Georgia State University\nTeaching data visualization, program evaluation, comparative public administration, nonprofit management, and microeconomics at the Andrew Young School of Policy Studies at Georgia State University\nWorking as a part time data science mentor for Posit Academy\nConverting my dissertation into multiple articles and sending them out to journals + continuing my research on authoritarianism and international NGOs\nWorking on several articles on NGO restrictions with Suparna Chaudhry and Marc Dotson\nReading some sort of religiously themed text every day (books)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
     "title": "Leonardo Calzada",
-    "section": "",
-    "text": "I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program “Sembrando Vida”, on forest dynamics and local governance in the Yucatan Peninsula.\nMy work draws on land system science, political ecology, and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.\n\n  National Geographic Explorer Profile\n\n\n\n\nLand System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology\n\n\nRutgers University PhD in Geography | 2020 - Present\nNational Autonomous University of Mexico  MS – Biological Sciences| 2017 - 2019  BS – Biology | 2011 - 2015"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Leonardo Calzada",
-    "section": "",
-    "text": "I am a Ph.D. student at Rutgers University and a National Geographic Explorer, studying the impacts of state-driven conservation and development interventions, such as the Mayan Train and the agroforestry program “Sembrando Vida”, on forest dynamics and local governance in the Yucatan Peninsula.\nMy work draws on land system science, political ecology, and spatial modeling to propose collaborative tools for analizing the interplay between human and ecological communities in tropical forests while considering local perspectives and ecological complexity.\n\n  National Geographic Explorer Profile"
-  },
-  {
-    "objectID": "index.html#reseach-interest",
-    "href": "index.html#reseach-interest",
-    "title": "Leonardo Calzada",
-    "section": "",
-    "text": "Land System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology\n\n\nRutgers University PhD in Geography | 2020 - Present\nNational Autonomous University of Mexico  MS – Biological Sciences| 2017 - 2019  BS – Biology | 2011 - 2015"
+    "section": "2024",
+    "text": "2024\n\n\n\n    \n    \n                  \n            October 2, 2024\n        \n        \n            AAN JUMP'ÉEL TSÍMIN K'ÁAK ICHE' K'ÁAXO -- There is a Train across the Jungle: Voices and Visions on the Maya Train, Sembrando Vida, and the Future of the Maya Forest\n            This story map explores the impact of the Maya Train project on local communities and the environment. Featuring voices from residents and advocates, the site highlights the importance of sustainable practices and the preservation of collective land management in the face of development. | \n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Site\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            April 21, 2024\n        \n        \n            El Susurro de los Árboles -- Degradación y Regeneración de los Bosques en el Corredor Calakmul Sian Ka'án\n            Workshop for the Colgegio de Bachilleres Técnico Forestal (CBTF 007) | Zoh Laguna, Campeche, Mexico\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Site\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
   }
 ]

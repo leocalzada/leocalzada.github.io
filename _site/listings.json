@@ -1,9 +1,13 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/atom.html",
     "items": [
       "/blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
   },
   {
     "listing": "/research/index.html",
@@ -50,11 +54,7 @@
     ]
   },
   {
-    "listing": "/projects/index.html",
-    "items": []
-  },
-  {
-    "listing": "/atom.html",
+    "listing": "/blog/index.html",
     "items": [
       "/blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html"
     ]

@@ -6,7 +6,7 @@
   logo: logos/corridor.jpg
   semester:
   - name: 'See more'
-    url: territorial/index.qmd
+    url: https://landsystems-rutgers.netlify.app/projects/territorial/
 
 - title: "Environmental Disturbance in the Greater Yucatan"
   description: "The project seeks to understand the socio-ecological relationship between both human and of natural disturbances, with a focus on the 2007 landfall of Hurricane Dean, and forest cover in the Yucatán Peninsula. "

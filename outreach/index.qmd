@@ -1,100 +1,66 @@
 ---
-title: "Talks"
+title: ""
 listing:
-  - id: talks_2022
-    contents: talks_2022.yml
+  - id: talks_2024
+    contents: talks_2024.yml
     sort: "date desc"
     template: ../html/talks/listing.ejs
-  - id: talks_2021
-    contents: talks_2021.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2020
-    contents: talks_2020.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2019
-    contents: talks_2019.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2018
-    contents: talks_2018.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2016
-    contents: talks_2016.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2015
-    contents: talks_2015.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2014
-    contents: talks_2014.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-  - id: talks_2013
-    contents: talks_2013.yml
-    sort: "date desc"
-    template: ../html/talks/listing.ejs
-title-block-banner: "#FB9E07"
+title-block-banner: ""
 page-layout: full
 toc: true
 toc-location: right
 toc-title: Year
+code-tools: false
+comments: false
+engine: knitr
+freeze: false
 date-format: "MMMM D, YYYY"
+resources:
+  - "Natgeo_booklet.pdf"
+booklet:
+  pdf: "Natgeo_booklet.pdf"
 ---
 
+:::
+### My lastest work
 
-This page contains the source code, links, and slides for various workshops, talks, lectures, and presentations I've given. Research presentations given at conferences are typically stored in their respective repositories on GitHub; one-off workshops and talks can all be found in a [catch-all GitHub repository](https://github.com/andrewheiss/talks).
+You can explore *Entre selvas y comunidades*, our outreach booklet on how development and conservation initiatives, along with public policies, shape communities and landscapes in the Calakmul-Sian Ka’an corridor. This project was made possible thanks to the support of Fulbright and the National Geographic Society.
 
-::: {.callout-note}
-### Copyright
+<br>
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
 
-Except where noted, all content is © Andrew Heiss and licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$booklet$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download our outreach booklet
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$booklet$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
 :::
 
-## 2022
+## 2024
 
-:::{#talks_2022}
+:::{#talks_2024}
 :::
 
-## 2021
-
-:::{#talks_2021}
-:::
-
-## 2020
-
-:::{#talks_2020}
-:::
-
-## 2019
-
-:::{#talks_2019}
-:::
-
-## 2018
-
-:::{#talks_2018}
-:::
-
-## 2016
-
-:::{#talks_2016}
-:::
-
-## 2015
-
-:::{#talks_2015}
-:::
-
-## 2014
-
-:::{#talks_2014}
-:::
-
-## 2013
-
-:::{#talks_2013}
-:::
