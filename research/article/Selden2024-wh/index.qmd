@@ -11,16 +11,16 @@ author:
   url: ''
   orcid: ''
   affiliation: ''
-categories: '- Papers'
+categories: ['Climate change', 'Fisheries', 'Adaptive capacity', 'Vulnerability', 'Catch switching', 'Fishing grounds', 'Governance']
 pub-info:
-  reference: ''
+  reference: 'Selden, R. L., Kitchel, Z. J., Coleman, K. E., Calzada, L., & St. Martin, K. (2024). Using historical catch flexibility and fishing ground mobility as measures of the adaptive capacity of fishing communities to future ocean change. ICES Journal of Marine Science: Journal Du Conseil, 81(10), 1972–1987'
   links:
   - name: Final version
-    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=voVedNAAAAAJ:zYLM7Y9cAGgC
+    url: https://doi.org/10.1093/icesjms/fsae139
     icon: fa-solid fa-scroll
 haiku:
-- ''
-- ''
-- ''
+- 'Changing tides they faces,'
+- 'Fishermen shift and adapt,'
+- 'Nature\`s dance persists.'
 
 ---
