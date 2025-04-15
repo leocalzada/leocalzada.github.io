@@ -17,7 +17,7 @@ about:
 
 #### {{< fa envelope >}} &nbsp; leonardo.calzada@geography.rutgers.edu
 
-#### {{< iconify bi instagram size=1.1em title='Instagram' >}} &nbsp; ["@lecalzada"](https://www.instagram.com/lecalzada/)
+#### {{< iconify bi instagram size=1.1em title='Instagram' >}} &nbsp; [&#64;lecalzada](https://www.instagram.com/lecalzada/)
 
 #### {{< fa map-location-dot >}} &nbsp; Department of Geography, Rutgers University, NJ, USA.
 

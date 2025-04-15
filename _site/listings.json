@@ -1,13 +1,13 @@
 [
   {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
     "listing": "/atom.html",
     "items": [
       "/blog/2024/01/12/diy-api-plumber-quarto-ojs/index.html"
     ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": []
   },
   {
     "listing": "/research/index.html",
@@ -19,7 +19,6 @@
       "/research/article/Calzada2018-ar/index.html",
       "/research/article/Wegier2018-vb/index.html",
       "/research/article/Ortega_Uribe2014-zf/index.html",
-      "/research/article/FigueroaUnknown-gk/index.html",
       "/research/incollection/Figueroa2019-lq/index.html",
       "/research/incollection/Puente_Uribe2017-wn/index.html",
       "/research/book/Figueroa2018-qs/index.html",

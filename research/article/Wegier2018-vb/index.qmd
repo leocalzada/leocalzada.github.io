@@ -8,16 +8,16 @@ author:
   url: ''
   orcid: ''
   affiliation: ''
-categories: []
+categories: ['Edible insects', 'Protein source', 'Sustainability', 'Environmental impact', 'Food security']
 pub-info:
-  reference: ''
+  reference: 'Wegier, A., Alavez, V., Pérez-López, J., & Calzada, L. (2018). Beef or grasshopper hamburgers: The ecological implications of choosing one over the other. Basic and Applied Ecology, 26, 89–100'
   links:
   - name: Final version
-    url: ''
+    url: 'https://doi.org/10.1016/j.baae.2017.09.004'
     icon: fa-solid fa-scroll
 haiku:
-- ''
-- ''
-- ''
+- 'In ancient kitchens'
+- 'Crickets dance on warm dishes'
+- 'Nourishment for all'
 
 ---

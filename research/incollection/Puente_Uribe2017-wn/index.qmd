@@ -8,16 +8,16 @@ author:
   url: ''
   orcid: ''
   affiliation: ''
-categories: []
+categories: ['Mexico','Morelos','Biodiversity','Traditional agriculture']
 pub-info:
-  reference: ''
+  reference: 'Puente Uribe, B., Calzada, L., Bonfil, C., & Figueroa, F. (2017). Prácticas agrícolas y conservación de la agrobiodiversidad en Amatlán de Quetzalcóatl. In Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO) & Gobierno del Estado de Morelos (Eds.), La biodiversidad en Morelos: estudio de Estado 2: Vol. III (pp. 428–433). Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)'
   links:
   - name: Final version
-    url: ''
+    url: 'https://doi.org/10.5962/bhl.title.118977'
     icon: fa-solid fa-scroll
 haiku:
-- ''
-- ''
-- ''
+- 'In fields where hands toil'
+- 'Morelos` heart beats with life'
+- 'Havests weave our fate'
 
 ---

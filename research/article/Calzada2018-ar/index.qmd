@@ -8,7 +8,7 @@ author:
   url: ''
   orcid: ''
   affiliation: ''
-categories: ['tropical dry forst','Morelos','Oaxaca','Agricultural Fallow']
+categories: ['Tropical dry forest','Morelos','Oaxaca','Fallow Agriculture']
 pub-info:
   reference: 'Calzada, L., Meave, J. A., Bonfil, C., & Figueroa, F. (2018). Lands at risk: Land use/land cover change in two contrasting tropical dry regions of Mexico. Applied Geography (Sevenoaks, England), 99, 22–30.
 '
@@ -18,7 +18,7 @@ pub-info:
     icon: fa-solid fa-scroll
 haiku:
 - 'Dry tropics endure'
-- 'Fileds expand, the forest may rise'
+- 'Fields expand, the forest may rise'
 - 'Cycle of life turns'
 
 ---
