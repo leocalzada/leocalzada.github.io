@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Outreach and Dissemination"
 listing:
   - id: talks_2024
     contents: talks_2024.yml
     sort: "date desc"
     template: ../html/talks/listing.ejs
-title-block-banner: ""
+title-block-banner: "#abb5b6"
 page-layout: full
 toc: true
 toc-location: right
@@ -21,9 +21,7 @@ booklet:
   pdf: "Natgeo_booklet.pdf"
 ---
 
-:::
-
-### My lastest work
+## My lastest work
 
 You can explore *Entre selvas y comunidades*, our outreach booklet on how development and conservation initiatives, along with public policies, shape communities and landscapes in the Calakmul-Sian Ka’an corridor. This project was made possible thanks to the support of Fulbright and the National Geographic Society.
 
@@ -58,7 +56,6 @@ You can explore *Entre selvas y comunidades*, our outreach booklet on how develo
 </div>
 ```
 
-:::
 
 ## 2024
 

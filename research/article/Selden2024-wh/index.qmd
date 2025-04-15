@@ -19,8 +19,8 @@ pub-info:
     url: https://doi.org/10.1093/icesjms/fsae139
     icon: fa-solid fa-scroll
 haiku:
-- 'Changing tides they faces,'
-- 'Fishermen shift and adapt,'
-- 'Nature\`s dance persists.'
+- 'Changing tides they faces'
+- 'Fishermen shift and adapt'
+- 'Nature`s dance persists.'
 
 ---

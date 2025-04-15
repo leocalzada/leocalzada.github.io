@@ -15,7 +15,7 @@ about:
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; leonardo.calzada@geography.rutgers.edu
+#### {{< fa envelope >}} &nbsp; leonardo.calzada@rutgers.edu
 
 #### {{< iconify bi instagram size=1.1em title='Instagram' >}} &nbsp; [&#64;lecalzada](https://www.instagram.com/lecalzada/)
 
