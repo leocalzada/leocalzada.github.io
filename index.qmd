@@ -1,37 +1,30 @@
 ---
-title: ""
-pagetitle: "Leonardo Calzada"
-description-meta: ""
-main-photo: /files/profiles/calzada-2024.jpg
-main-photo-square: /files/profiles/calzada-2024-square.jpg
-title-block-banner: "#e2e2da"
-format:
-  html:
-    quarto-template-params:
-      banner-header-class: "home"
+title: "Leonardo Calzada"
+subtitle: |
+  Geographer, Biologist, Carto-wizard and Data Enthusiast.
+image: /files/profiles/calzada-2024-square.jpg
+about:
+  id: edu-exp
+  template: solana
+  image-width: 9em
+  image-shape: round
+  links:
+    - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+      href: "mailto:leonardo.calzada@rutgers.edu"
+      rel: me
+    - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+      href: https://github.com/leocalzada
+      rel: me
+    - text: "{{< iconify bi instagram size=1.1em title='Instagram' >}}"
+      href: https://www.instagram.com/lecalzada/
+      rel: me
+    - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+      href: https://www.linkedin.com/in/leonardocalzada/
+      rel: me
 ---
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-sm-4}
-
-```{=html}
-<div class="grid" style="--bs-columns: 5; row-gap: 0;">
-  <div class="g-col-1 g-col-sm-0"></div>
-  <div class="g-col-3 g-col-sm-5">
-    <picture>
-      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
-      <source media="(min-width: 576px)" srcset="{{< meta main-photo-square >}}">
-      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
-    </picture>
-  </div>
-  <div class="g-col-1 g-col-sm-0"></div>
-</div>
-```
-
+::: {#edu-exp}
 :::
-
-::: {.g-col-12 .g-col-sm-8}
 
 ## About Me
 
@@ -46,21 +39,34 @@ My work draws on land system science, political ecology, and spatial modeling to
 </div>
 ```
 
+:::: {.grid}
 
-## Reseach Interest
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
+## Education
 
-Land System Science, Political Ecology, Social-Ecological Systems, Critical Agrarian Studies, Tropical Ecology
+- **_Ph.D._ in Geography**, **Present**  
+  *Rutgers University, USA*
 
-### Academic History
+- **_M.Sc._ in Biological Sciences** (*Specialized in Integrated Ecosystem Management*), **2019**  
+  *National Autonomous University of Mexico (UNAM), Mexico*
 
-Rutgers University
-PhD in Geography | 2020 - Present
-
-National Autonomous University of Mexico <br>
-MS -- Biological Sciences| 2017 - 2019 <br>
-BS -- Biology | 2011 - 2015
-
-
+- **_B.Sc._ in Biology**, **2015**  
+  *National Autonomous University of Mexico (UNAM), Mexico*
 :::
 
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
+## Research Interests
+
+- Land System Science
+- Political Ecology
+- Critical Agrarian Studies
+- Tropical Ecology
+- Governance
+- Remote Sensing
+- Commons
+- Data Visualization
+- Story telling
 :::
+
+::::
+
