@@ -11,7 +11,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: 'González‑Jiménez, D., Franquesa, M., Bueno, I., Lazos, E., Noellemeyer, E., Mwampamba, T., Maass, M., & Balvanera, P. (Eds.). (2014).Guía para el diseño y ejecución de cursos interdisciplinarios. Aprendizajes derivados del curso de sistemas socio‑ecológicos para la toma de decisiones. CIEco e IIS – UNAM, IAI, UNLPam.'
   links:
   - name: Final version
     url: ''

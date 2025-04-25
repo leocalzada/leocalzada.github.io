@@ -54,10 +54,10 @@ My research explores the relationship between land-use change, environmental gov
 :::{#books}
 :::
 
-## Selected conferences
+<!-- ## Selected conferences -->
 
-:::{#seminar-papers}
-:::
+<!-- :::{#seminar-papers} -->
+<!-- ::: -->
 
 ## Technical reports
 

@@ -1,8 +1,15 @@
 [
   {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/atom.html",
+    "items": []
+  },
+  {
     "listing": "/research/index.html",
     "items": [
-      "/research/unpublished/CalzadaUnknown-ch/index.html",
       "/research/unpublished/CalzadaUnknown-ny/index.html",
       "/research/article/Selden2024-wh/index.html",
       "/research/article/Figueroa2020-he/index.html",
@@ -11,8 +18,6 @@
       "/research/article/Ortega_Uribe2014-zf/index.html",
       "/research/incollection/Figueroa2019-lq/index.html",
       "/research/incollection/Puente_Uribe2017-wn/index.html",
-      "/research/book/Figueroa2018-qs/index.html",
-      "/research/book/Figueroa2018-yg/index.html",
       "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2017-rt/index.html",
       "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2016-ii/index.html",
       "/research/book/CONABIO_Comision_Nacional_Para_el_Conocimiento_y_Uso_de_la_Biodiversidad2016-vx/index.html",
@@ -41,14 +46,6 @@
       "/research/misc/Figueroa2016-bq/index.html",
       "/research/misc/Calzada2015-el/index.html"
     ]
-  },
-  {
-    "listing": "/atom.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": []
   },
   {
     "listing": "/outreach/index.html",

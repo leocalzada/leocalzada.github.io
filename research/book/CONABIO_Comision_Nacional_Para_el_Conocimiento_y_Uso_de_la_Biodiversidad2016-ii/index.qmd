@@ -8,7 +8,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: '[CONABIO] Comisión Nacional Para el Conocimiento y Uso de la Biodiversidad, & [SEDEMA] Secretaria del Medio Ambiente del Distrito Federal. (2016). La biodiversidad en la Ciudad de México: Vol. I–III. CONABIO; SEDEMA.(Cartographic design)'
   links:
   - name: Final version
     url: ''

@@ -8,7 +8,7 @@ author:
   affiliation: ''
 categories: ['Oaxaca', 'Natural resources', 'Socio-ecosystems']
 pub-info:
-  reference: 'Figueroa, F., & Calzada, L. (2019). Gobernanza del Manejo de los Recursos Forestales en México. In V. S. Ávila Foucat & M. Perevochtchikova (Eds.), Sistemas socio-ecológicos: marcos analíticos y estudios de caso en Oaxaca, México (pp. 205–226). Institute of Economic Research, National Autonomous University of Mexico'
+  reference: 'Figueroa, F., & **Calzada, L.** (2019). Gobernanza del Manejo de los Recursos Forestales en México. In V. S. Ávila Foucat & M. Perevochtchikova (Eds.), Sistemas socio-ecológicos: marcos analíticos y estudios de caso en Oaxaca, México (pp. 205–226). Institute of Economic Research, National Autonomous University of Mexico'
   links:
   - name: Final version
     url: 'https://doi.org/10.22201/iiec.001b.2022'

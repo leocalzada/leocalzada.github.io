@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: '[CONABIO] Comisión Nacional Para el Conocimiento y Uso de la Biodiversidad. (2016). Estrategia nacional sobre la biodiversidad de México (ENBioMex) y plan de acción 2016-2030. CONABIO.(Cartographic design)'
   links:
   - name: Final version
     url: ''

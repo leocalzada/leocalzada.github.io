@@ -8,7 +8,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: '[CONABIO] Comisión Nacional Para el Conocimiento y Uso de la Biodiversidad, & [SEMA] Secretaria de Medio Ambiente del Estado de Coahuila de Zaragoza. (2017). La Biodiversidad en Coahuila: Estudio de Estado: Vol. I–II. CONABIO; SEMA; Quintanilla Ediciones. (Cartographic design)'
   links:
   - name: Final version
     url: ''

@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: ['Tropical dry forest','Morelos','Oaxaca','Fallow Agriculture']
 pub-info:
-  reference: 'Calzada, L., Meave, J. A., Bonfil, C., & Figueroa, F. (2018). Lands at risk: Land use/land cover change in two contrasting tropical dry regions of Mexico. Applied Geography (Sevenoaks, England), 99, 22–30.
+  reference: '**Calzada, L.**, Meave, J. A., Bonfil, C., & Figueroa, F. (2018). Lands at risk: Land use/land cover change in two contrasting tropical dry regions of Mexico. Applied Geography (Sevenoaks, England), 99, 22–30.
 '
   links:
   - name: Final version

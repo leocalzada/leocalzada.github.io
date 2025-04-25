@@ -9,9 +9,9 @@ author:
   url: ''
   orcid: ''
   affiliation: ''
-categories: '- Papers'
+categories: ''
 pub-info:
-  reference: ''
+  reference: '**Calzada, L.**, Schneider, L. C., & Figueroa, F. (Under Review). Local perspectives and institutional bricolage around conservation and development: Sembrando Vida and the Maya train in the southern Yucatan peninsula. Regional Environmental Change.'
   links:
   - name: Final version
     url: ''
