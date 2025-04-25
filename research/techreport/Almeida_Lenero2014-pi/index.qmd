@@ -11,7 +11,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: 'Almeida Leñero, L., Figueroa, F., Ramos, A., <b>Calzada, L.</b>, & Galván Benítez, L. E. (2014). Estrategia para la conservación del bosque de agua: Diagnóstico participativo de la comunidad de San Miguel Topilejo, Distrito Federal. International Conservation; National Autonomous University of Mexico; Gonzalo Rio Arronte foundation.'
   links:
   - name: Final version
     url: ''

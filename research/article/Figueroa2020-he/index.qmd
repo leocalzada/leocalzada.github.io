@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: ['Agricultural frontiers', 'Extractive frontiers', 'Deforestation', 'Territorialisation', 'Tropical dry forest', 'Mexico']
 pub-info:
-  reference: 'Figueroa, F., **Calzada, L.**, & Meave, J. A. (2020). Integrating pattern-based modelling and political ecology in land-use change research: the case of Mexican dry tropics. Journal of Land Use Science, 15(2–3), 252–269.
+  reference: 'Figueroa, F., <b>Calzada, L.</b>, & Meave, J. A. (2020). Integrating pattern-based modelling and political ecology in land-use change research: the case of Mexican dry tropics. Journal of Land Use Science, 15(2–3), 252–269.
 '
   links:
   - name: Final version

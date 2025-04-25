@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: ['Transdisciplinarity', 'Socio-ecosystems', 'Ontology' , 'Epistemology' , 'Methodology' , 'Latin America']
 pub-info:
-  reference: 'Ortega, T., Mastrangelo, M., Villarroel, D., Piaz, A., Vallejos, M., Saenz, J., Gallego, F., Franquesa, M., **Calzada, L.**, Espinosa, N., Fiestas, J., Gill, L., González, Z., Luna, B., Martinez, C., Ochoa, O., Pérez, L., Sala, J., Sánchez, I., … M., M. (2014). Estudios transdisciplinarios en socio-ecosistemas: Reflexiones teóricas y su aplicación en contextos latinoamericanos. Investigación Ambiental, Ciencia y Política Pública'
+  reference: 'Ortega, T., Mastrangelo, M., Villarroel, D., Piaz, A., Vallejos, M., Saenz, J., Gallego, F., Franquesa, M., <b>Calzada, L.</b>, Espinosa, N., Fiestas, J., Gill, L., González, Z., Luna, B., Martinez, C., Ochoa, O., Pérez, L., Sala, J., Sánchez, I., … M., M. (2014). Estudios transdisciplinarios en socio-ecosistemas: Reflexiones teóricas y su aplicación en contextos latinoamericanos. Investigación Ambiental, Ciencia y Política Pública'
   links:
   - name: Final version
     url: 'https://ri.conicet.gov.ar/handle/11336/43261'

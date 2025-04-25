@@ -61,5 +61,5 @@ My research explores the relationship between land-use change, environmental gov
 
 ## Technical reports
 
-:::{#seminar-papers}
+:::{#techreports}
 :::

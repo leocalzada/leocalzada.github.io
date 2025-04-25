@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: ['Edible insects', 'Sustainability', 'Food security']
 pub-info:
-  reference: 'Wegier, A., Alavez, V., Pérez-López, J., & **Calzada, L.** (2018). Beef or grasshopper hamburgers: The ecological implications of choosing one over the other. Basic and Applied Ecology, 26, 89–100'
+  reference: 'Wegier, A., Alavez, V., Pérez-López, J., & <b>Calzada, L.</b> (2018). Beef or grasshopper hamburgers: The ecological implications of choosing one over the other. Basic and Applied Ecology, 26, 89–100'
   links:
   - name: Final version
     url: 'https://doi.org/10.1016/j.baae.2017.09.004'

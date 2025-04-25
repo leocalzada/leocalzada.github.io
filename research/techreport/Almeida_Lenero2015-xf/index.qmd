@@ -10,7 +10,7 @@ author:
   affiliation: ''
 categories: []
 pub-info:
-  reference: ''
+  reference: 'Almeida Leñero, L., Jujnovsky Orlandini, J., Ramos, A., Cetina Arenas, L., Rivero Aranda, S. L., Guadarrama Almeida, K., Hudler Schimpf, C., Correa Ayram, C., & <b>Calzada, L.</b> (2015). Evaluación externa del Programa de Redistribución por la Conservación de Servicios Ambientales (PRCSA). Secretaría del Medio Ambiente de la Ciudad de México, UNAM.'
   links:
   - name: Final version
     url: ''
