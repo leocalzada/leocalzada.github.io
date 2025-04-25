@@ -23,10 +23,10 @@ listing:
     contents: "techreport/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
-  - id: seminar-papers
-    contents: "misc/*/index.qmd"
-    sort: "date desc"
-    template: ../html/research/listing.ejs
+  # - id: seminar-papers
+  #   contents: "misc/*/index.qmd"
+  #   sort: "date desc"
+  #   template: ../html/research/listing.ejs
 page-layout: full
 include-back-link: false
 toc-location: right
