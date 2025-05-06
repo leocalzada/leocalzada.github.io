@@ -9,9 +9,18 @@
     
 - title: "El Susurro de los Árboles -- Degradación y Regeneración de los Bosques en el Corredor Calakmul Sian Ka'án"
   date: 2024-04-21
-  description: 'Workshop for the Colgegio de Bachilleres Técnico Forestal (CBTF 007)'
+  description: 'Workshop for the Colegio de Bachilleres Técnico Forestal (CBTF 007)'
   location: Zoh Laguna, Campeche, Mexico
   links:
   - name: Site
     url: https://arcg.is/10vTeP2
+    icon: fa-solid fa-chalkboard-user
+
+- title: "Sembrando Vida: Voces y Transformaciones en Calakmul–Sian Ka’an"
+  date: 2024-10-06
+  description: 'Opinion Column: The "Sembrando Vida" program, while promising in its aim to combat rural poverty and environmental degradation, reveals the complexities of implementing redistribution land policies and fostering community participation amidst historical inequalities.'
+  location: Pie de Página
+  links:
+  - name: Site
+    url: https://piedepagina.mx/sembrando-vida-voces-y-transformaciones-en-calakmul-sian-kaan/
     icon: fa-solid fa-chalkboard-user

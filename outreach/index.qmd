@@ -5,6 +5,10 @@ listing:
     contents: talks_2024.yml
     sort: "date desc"
     template: ../html/talks/listing.ejs
+  - id: talks_2018
+    contents: talks_2018.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
 title-block-banner: "#abb5b6"
 page-layout: full
 toc: true
@@ -62,3 +66,7 @@ You can explore *Entre selvas y comunidades*, our outreach booklet on how develo
 :::{#talks_2024}
 :::
 
+## 2018
+
+:::{#talks_2018}
+:::

@@ -100,6 +100,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-talks_2018 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-location','listing-links',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date","listing-description","listing-location","listing-links"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-talks_2018'] = new List('listing-talks_2018', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <style>
 
@@ -229,6 +257,7 @@ window.Quarto = {
   <ul>
   <li><a href="#my-lastest-work" id="toc-my-lastest-work" class="nav-link active" data-scroll-target="#my-lastest-work">My lastest work</a></li>
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2024</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2018</a></li>
   </ul>
 </nav>
     </div>
@@ -280,6 +309,30 @@ window.Quarto = {
     
     <div class="talk-entry">
         <div class="metadata">          
+            <p class="date">October 6, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title">Sembrando Vida: Voces y Transformaciones en Calakmul–Sian Ka’an</p>
+            <p class="description">Opinion Column: The "Sembrando Vida" program, while promising in its aim to combat rural poverty and environmental degradation, reveals the complexities of implementing redistribution land policies and fostering community participation amidst historical inequalities. | Pie de Página</p>
+
+            
+            <ul class="talk-links">
+                
+                <li class="talk-link">
+                    
+                    <a href="https://piedepagina.mx/sembrando-vida-voces-y-transformaciones-en-calakmul-sian-kaan/">
+                    
+                        <i class="fa-solid fa-chalkboard-user"></i> Site
+                    </a>
+                </li>
+                
+            
+            </ul>
+        </div>
+    </div>
+    
+    <div class="talk-entry">
+        <div class="metadata">          
             <p class="date">October 2, 2024</p>
         </div>
         <div class="body">
@@ -308,7 +361,7 @@ window.Quarto = {
         </div>
         <div class="body">
             <p class="title">El Susurro de los Árboles -- Degradación y Regeneración de los Bosques en el Corredor Calakmul Sian Ka'án</p>
-            <p class="description">Workshop for the Colgegio de Bachilleres Técnico Forestal (CBTF 007) | Zoh Laguna, Campeche, Mexico</p>
+            <p class="description">Workshop for the Colegio de Bachilleres Técnico Forestal (CBTF 007) | Zoh Laguna, Campeche, Mexico</p>
 
             
             <ul class="talk-links">
@@ -318,6 +371,66 @@ window.Quarto = {
                     <a href="https://arcg.is/10vTeP2">
                     
                         <i class="fa-solid fa-chalkboard-user"></i> Site
+                    </a>
+                </li>
+                
+            
+            </ul>
+        </div>
+    </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2018</h2>
+<div id="listing-talks_2018" class="quarto-listing quarto-listing-container-custom">
+
+<div class="talks">
+    
+    <div class="talk-entry">
+        <div class="metadata">          
+            <p class="date">August 1, 2018</p>
+        </div>
+        <div class="body">
+            <p class="title">Nizanda -- Transformación ambiental y social en el istmo oaxaqueño</p>
+            <p class="description">This visual narrative documents the socio-environmental transformations in Nizanda, Oaxaca, through community voices and photography. It highlights the local perspectives on development, renewable energy, and the cultural landscapes of the Isthmus of Tehuantepec, offering an intimate portrayal of resistance, change, and continuity in the face of large-scale infrastructure projects. | Ediciones Quinto Sol, UNAM</p>
+
+            
+            <ul class="talk-links">
+                
+                <li class="talk-link">
+                    
+                    <a href="./Nizanda_dissemination.pdf">
+                    
+                        <i class="fa-solid fa-file-pdf"></i> PDF
+                    </a>
+                </li>
+                
+            
+            </ul>
+        </div>
+    </div>
+    
+    <div class="talk-entry">
+        <div class="metadata">          
+            <p class="date">August 1, 2018</p>
+        </div>
+        <div class="body">
+            <p class="title">Amatlán -- Transformación ambiental y social en el norte de Morelos</p>
+            <p class="description">This community-centered publication portrays the environmental and social transformations unfolding in Amatlán, Morelos. Through photography and local storytelling, it reflects on the relationship between territory, identity, and resistance in the face of extractive development and cultural change, drawing from the symbolic legacy of Quetzalcóatl. | Ediciones Quinto Sol, UNAM</p>
+
+            
+            <ul class="talk-links">
+                
+                <li class="talk-link">
+                    
+                    <a href="./Amatlán_dissemination.pdf">
+                    
+                        <i class="fa-solid fa-file-pdf"></i> PDF
                     </a>
                 </li>
                 

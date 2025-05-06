@@ -1,0 +1,17 @@
+- title: "Nizanda -- Transformación ambiental y social en el istmo oaxaqueño"
+  date: 2018-08-01
+  description: "This visual narrative documents the socio-environmental transformations in Nizanda, Oaxaca, through community voices and photography. It highlights the local perspectives on development, renewable energy, and the cultural landscapes of the Isthmus of Tehuantepec, offering an intimate portrayal of resistance, change, and continuity in the face of large-scale infrastructure projects."
+  location: Ediciones Quinto Sol, UNAM
+  links:
+  - name: PDF
+    url: ./Nizanda_dissemination.pdf
+    icon: fa-solid fa-file-pdf
+
+- title: "Amatlán -- Transformación ambiental y social en el norte de Morelos"
+  date: 2018-08-01
+  description: "This community-centered publication portrays the environmental and social transformations unfolding in Amatlán, Morelos. Through photography and local storytelling, it reflects on the relationship between territory, identity, and resistance in the face of extractive development and cultural change, drawing from the symbolic legacy of Quetzalcóatl."
+  location: Ediciones Quinto Sol, UNAM
+  links:
+  - name: PDF
+    url: ./Amatlán_dissemination.pdf
+    icon: fa-solid fa-file-pdf
