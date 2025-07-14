@@ -2,7 +2,7 @@
 title: "Leonardo Calzada"
 subtitle: |
   Geographer, Biologist, Carto-wizard and Data Enthusiast.
-image: /files/profiles/calzada-2024-square.jpg
+image: /files/profiles/calzada-2024-square.png
 about:
   id: edu-exp
   template: solana
@@ -63,7 +63,7 @@ My work draws on land system science, political ecology, and spatial modeling to
 - Tropical Ecology
 - Governance
 - Remote Sensing
-- Commons
+- The Commons
 - Data Visualization
 - Story telling
 :::

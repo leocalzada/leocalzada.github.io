@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/projects/index.html",
-    "items": []
-  },
-  {
-    "listing": "/atom.html",
-    "items": []
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/unpublished/CalzadaUnknown-ny/index.html",
@@ -29,6 +21,14 @@
       "/research/techreport/Almeida_Lenero2014-pu/index.html",
       "/research/techreport/Almeida_Lenero2014-xi/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/atom.html",
+    "items": []
   },
   {
     "listing": "/outreach/index.html",

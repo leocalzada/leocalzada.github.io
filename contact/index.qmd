@@ -1,11 +1,11 @@
 ---
 title: "Leonardo Calzada"
-image: "../files/profiles/calzada-2024-square.jpg"
+image: "../files/profiles/calzada-2024-square.png"
 about: 
   id: contact
   template: solana
   image-shape: round
-  image: "../files/profiles/calzada-2024-square.jpg"
+  image: "../files/profiles/calzada-2024-square.png"
 ---
 ::: {.column-body .center-text .bs-callout .bs-callout-info}
 
